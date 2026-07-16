@@ -158,12 +158,16 @@ ___
 ___
 <h2><a class="anchor" id="snapshot"></a>Snapshot</h2>
 
+**Exclusive Overview**
 ![Dashboard Preview](https://github.com/arshitbh25/olist-ecommerce-end-to-end-data-analysis-project/blob/main/images/01_exclusive_overview.png)
 
+**Customer & Product Insights**
 ![Dashboard Preview](https://github.com/arshitbh25/olist-ecommerce-end-to-end-data-analysis-project/blob/main/images/02_customer_%26_product_insights.png)
 
+**Operations & Seller Performance**
 ![Dashboard Preview](https://github.com/arshitbh25/olist-ecommerce-end-to-end-data-analysis-project/blob/main/images/03_operations_%26_seller_performance.png)
 
+**Customer Experience**
 ![Dashboard Preview](https://github.com/arshitbh25/olist-ecommerce-end-to-end-data-analysis-project/blob/main/images/04_customer_experience.png)
 
 
