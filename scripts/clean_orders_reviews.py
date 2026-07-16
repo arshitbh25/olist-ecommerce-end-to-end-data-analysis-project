@@ -132,7 +132,9 @@ orders= orders.groupby(['order_id', 'customer_id', 'order_status', 'order_purcha
                                    freight_value=("freight_value", "sum"),
                                    quantity=("product_id","count")).reset_index()
 
-
+# Text Manipulation on column order_status and payment_type
+orders['order_status'] = orders['order_status'].str.capitalize()
+orders['payment_type'] = orders['payment_type'].str.replace('_',' ').replace('boleto','ticket').str.title()
 
 
 # EXTRACTING ORDER_REVIEWS TABLE
