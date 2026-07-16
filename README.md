@@ -232,7 +232,8 @@ ___
 
 Each visual provides insights into different aspects of business performance, customer behavior, and operational efficiency.
 
-## Visual Analysis Breakdown & Business Impact
+
+**Exclusive Overview**
 
 ### **1. Main Sales Trend**
 
@@ -269,111 +270,8 @@ Each visual provides insights into different aspects of business performance, cu
   - Supports assortment planning by focusing on high-volume categories.
  
 
-## Visual Analysis Breakdown & Business Impact
 
-### **1. Review Distribution by Delivery Status**
-
-- **What it shows:**
-  - Compares review ratings for on-time and late deliveries.
-  - Illustrates the relationship between delivery performance and customer satisfaction.
-
-- **Key Insights:**
-  - 5-star reviews dominate customer feedback.
-  - Most positive reviews are associated with on-time deliveries.
-  - Late deliveries contribute only a small proportion of total reviews.
-
-- **Business Impact:**
-  - Reinforces the importance of maintaining high on-time delivery performance.
-  - Helps logistics teams understand the impact of delivery delays on customer satisfaction.
-  - Supports initiatives aimed at improving fulfillment efficiency.
-
----
-
-### **2. Average Review Score by Delivery Days**
-
-- **What it shows:**
-  - Displays average customer ratings based on delivery time intervals.
-
-- **Key Insights:**
-  - Orders delivered within 0–3 days receive the highest average rating (4.5).
-  - Customer ratings decline as delivery time increases.
-  - Deliveries exceeding 30 days receive the lowest average rating (2.2).
-
-- **Business Impact:**
-  - Quantifies the effect of delivery speed on customer experience.
-  - Helps define delivery performance targets.
-  - Supports investment in faster logistics and fulfillment operations.
-
----
-
-### **3. Average Review Score by Product Category**
-
-- **What it shows:**
-  - Compares average customer ratings across major product categories.
-
-- **Key Insights:**
-  - Lifestyle & Entertainment and Daily Essentials achieve the highest average ratings (4.2).
-  - All product categories maintain ratings above 4.0.
-  - Customer satisfaction remains consistently high across categories.
-
-- **Business Impact:**
-  - Identifies categories delivering superior customer experiences.
-  - Helps prioritize best-performing categories for promotional campaigns.
-  - Supports quality improvement initiatives for comparatively lower-rated categories.
-
-## Visual Analysis Breakdown & Business Impact
-
-### **1. Payment Method Distribution**
-
-- **What it shows:**
-  - Displays the share of total orders by payment method.
-
-- **Key Insights:**
-  - Credit Cards account for 75.7% of all transactions.
-  - Tickets represent 19.1% of orders.
-  - Debit Cards contribute only 1.4%.
-
-- **Business Impact:**
-  - Helps optimize payment gateway strategies.
-  - Identifies customer payment preferences.
-  - Supports planning for payment-related promotions and partnerships.
-
----
-
-### **2. Sales vs Average Freight Cost by Category**
-
-- **What it shows:**
-  - Compares total sales with average freight costs across product categories.
-
-- **Key Insights:**
-  - Home & Living generates the highest sales volume.
-  - Automotive & Industrial records the highest average freight cost ($27.3).
-  - Freight costs vary significantly across categories.
-
-- **Business Impact:**
-  - Identifies categories with high logistics expenses.
-  - Supports freight cost optimization and pricing decisions.
-  - Helps improve profitability through logistics planning.
-
----
-
-### **3. Sellers & Average Order Value by State**
-
-- **What it shows:**
-  - Compares seller distribution and average order value across Brazilian states.
-
-- **Key Insights:**
-  - São Paulo hosts nearly 60% of sellers.
-  - Bahia records the highest average order value despite having relatively few sellers.
-  - Nineteen states outperform São Paulo in average order value.
-
-- **Business Impact:**
-  - Identifies underserved high-value markets.
-  - Supports seller acquisition strategies by region.
-  - Helps balance marketplace expansion across states.
- 
-
-## Visual Analysis Breakdown & Business Impact
+**Customer & Product Insights**
 
 ### **1. Customer & Seller Landscape**
 
@@ -439,6 +337,121 @@ Each visual provides insights into different aspects of business performance, cu
   - Identifies key geographic markets driving customer demand.
   - Supports regional marketing and expansion strategies.
   - Helps prioritize customer acquisition efforts in high-value regions.
+
+
+
+**Operations & Seller Performance**
+
+### **1. Payment Method Distribution**
+
+- **What it shows:**
+  - Displays the share of total orders by payment method.
+
+- **Key Insights:**
+  - Credit Cards account for 75.7% of all transactions.
+  - Tickets represent 19.1% of orders.
+  - Debit Cards contribute only 1.4%.
+
+- **Business Impact:**
+  - Helps optimize payment gateway strategies.
+  - Identifies customer payment preferences.
+  - Supports planning for payment-related promotions and partnerships.
+
+---
+
+### **2. Sales vs Average Freight Cost by Category**
+
+- **What it shows:**
+  - Compares total sales with average freight costs across product categories.
+
+- **Key Insights:**
+  - Home & Living generates the highest sales volume.
+  - Automotive & Industrial records the highest average freight cost ($27.3).
+  - Freight costs vary significantly across categories.
+
+- **Business Impact:**
+  - Identifies categories with high logistics expenses.
+  - Supports freight cost optimization and pricing decisions.
+  - Helps improve profitability through logistics planning.
+
+---
+
+### **3. Sellers & Average Order Value by State**
+
+- **What it shows:**
+  - Compares seller distribution and average order value across Brazilian states.
+
+- **Key Insights:**
+  - São Paulo hosts nearly 60% of sellers.
+  - Bahia records the highest average order value despite having relatively few sellers.
+  - Nineteen states outperform São Paulo in average order value.
+
+- **Business Impact:**
+  - Identifies underserved high-value markets.
+  - Supports seller acquisition strategies by region.
+  - Helps balance marketplace expansion across states.
+ 
+    
+
+**Customer Experience**
+
+### **1. Review Distribution by Delivery Status**
+
+- **What it shows:**
+  - Compares review ratings for on-time and late deliveries.
+  - Illustrates the relationship between delivery performance and customer satisfaction.
+
+- **Key Insights:**
+  - 5-star reviews dominate customer feedback.
+  - Most positive reviews are associated with on-time deliveries.
+  - Late deliveries contribute only a small proportion of total reviews.
+
+- **Business Impact:**
+  - Reinforces the importance of maintaining high on-time delivery performance.
+  - Helps logistics teams understand the impact of delivery delays on customer satisfaction.
+  - Supports initiatives aimed at improving fulfillment efficiency.
+
+---
+
+### **2. Average Review Score by Delivery Days**
+
+- **What it shows:**
+  - Displays average customer ratings based on delivery time intervals.
+
+- **Key Insights:**
+  - Orders delivered within 0–3 days receive the highest average rating (4.5).
+  - Customer ratings decline as delivery time increases.
+  - Deliveries exceeding 30 days receive the lowest average rating (2.2).
+
+- **Business Impact:**
+  - Quantifies the effect of delivery speed on customer experience.
+  - Helps define delivery performance targets.
+  - Supports investment in faster logistics and fulfillment operations.
+
+---
+
+### **3. Average Review Score by Product Category**
+
+- **What it shows:**
+  - Compares average customer ratings across major product categories.
+
+- **Key Insights:**
+  - Lifestyle & Entertainment and Daily Essentials achieve the highest average ratings (4.2).
+  - All product categories maintain ratings above 4.0.
+  - Customer satisfaction remains consistently high across categories.
+
+- **Business Impact:**
+  - Identifies categories delivering superior customer experiences.
+  - Helps prioritize best-performing categories for promotional campaigns.
+  - Supports quality improvement initiatives for comparatively lower-rated categories.
+
+
+
+
+ 
+
+
+
 
 
 
