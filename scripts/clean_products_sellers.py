@@ -100,8 +100,8 @@ products["product_category_name"]=products["product_category_name_english"]
 # Remove temporary translation columns
 products.drop(columns=['product_category_name_english'], inplace=True)
 
-
-
+# Text Manipulation
+products['product_category_name'] = products['product_category_name'].str.replace('_',' ').str.title().str.replace('And','and')
 
 
 
