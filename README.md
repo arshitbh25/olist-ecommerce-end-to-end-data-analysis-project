@@ -1,4 +1,4 @@
-# 🛒 RetailIQ: E-Commerce Sales and Customer Analytics
+# 🛒 Olist E-Commerce Performance Dashboard
 
 This project presents a comprehensive end-to-end data analysis of the OLIST e-commerce dataset to understand sales performance, customer behavior, delivery efficiency, and revenue trends using SQL Server, Python, and Power BI. The project demonstrates a complete industry-style data workflow including data storage, cleaning, transformation, and dashboard development.
 
